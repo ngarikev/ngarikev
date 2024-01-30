@@ -1,6 +1,5 @@
-<h2 align="left">Hi 👋! My name is Kevin Ngari</h2>
-
-<h3>I am a  passionate frontend developer from Kenya</h3>
+<h2 align="left">Hi 👋! </h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=My+name+is+Kevin+Ngari;I+am+a++passionate+frontend+developer+;from+Kenya.)](https://git.io/typing-svg)
 <p>I bring a unique combination of technical expertise and artistic sensibility to the web development field as a frontend developer by transforming static designs into dynamic, user-centric experiences with mastered JavaScript, HTML,CSS and frontend libraries. I am committed to remain at the forefront of frontend technologies driven by a passion for innovation. I am an expert at creating responsive and pixel-perfect interfaces that make it easy to click and look good together. I am aware of the delicate balance between aesthetics and functionality because I have worked on a variety of projects with others. I enjoy challenges and delights in problem-solving. I am on a mission to make the web more beautiful, accessible, and enjoyable for everyone.</p>
 
 <ul>
