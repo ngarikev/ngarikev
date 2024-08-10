@@ -40,8 +40,8 @@
 
 <strong>🔥 My Stats :</strong>
 
-<!--
-[![GitHub Streak](https://streak-stats.demolab.com?user=ngarikev&theme=radical&card_width=467)](https://git.io/streak-stats)      <span>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngarikev&show_icons=true&theme=radical&card_width=400)</span><span></span><br> -->
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ngarikev&theme=radical&card_width=467)](https://git.io/streak-stats)      <span>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngarikev&show_icons=true&theme=radical&card_width=400)</span><span></span><br> 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngarikev&theme=radical&layout=compact)
 
