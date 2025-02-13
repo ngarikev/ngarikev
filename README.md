@@ -1,8 +1,9 @@
   <h2 align="center">Hi 👋! My name is Kevin Ngari</h2>
 <hr>
 <strong>👨‍💻 About Me :</strong>
-<h3>I am a  passionate frontend developer from Kenya.</h3>
-<p>I bring  unique combination of technical expertise and artistic sensibility to the web development field as a frontend developer by transforming static designs into dynamic, user experiences with mastered JavaScript, HTML,CSS and frontend libraries. I am committed to remain at the forefront of frontend technologies driven by my passion for innovation and problem solving. I am an expert at creating responsive and pixel-perfect interfaces that make it easy to click and look good together. I am aware of the delicate balance between aesthetics and functionality because I have worked on a variety of projects and collaborated with others. I enjoy challenges and delights in problem-solving. I am on a mission to make the web more beautiful, accessible, and enjoyable for everyone.</p>
+<h3>I am a  passionate software engineer from Kenya.</h3>
+<p>I develop reliable, efficient, and scalable software solutions
+to meet the needs of users and businesses effectively.</p>
 
 <ul>
   <li> I'm open to collaborating on interesting projects</li>
